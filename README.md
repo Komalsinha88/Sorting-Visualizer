@@ -15,7 +15,7 @@ A web application for visualizing various sorting algorithms
 - Adjust speed and size
 ## Authors
 
-- [@vivek092002](https://github.com/vivek092002)
+- [@Komalsinha88](https://github.com/Komalsinha88)
 
 
 ## Badges
